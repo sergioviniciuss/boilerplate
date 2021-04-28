@@ -4,7 +4,7 @@ This boilerplate uses:
 * Typescript
 * PWA
 * Storybook
-
+* GraphQL
 
 ## Usage
 
