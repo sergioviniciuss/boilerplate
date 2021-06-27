@@ -2,6 +2,7 @@
 This boilerplate uses:
 * NextJS
 * Typescript
+* Styled components
 * PWA
 * Storybook
 * GraphQL
