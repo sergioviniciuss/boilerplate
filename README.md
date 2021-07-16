@@ -1,4 +1,4 @@
-# React Boilerplate
+# Next.js Boilerplate
 This boilerplate uses:
 * NextJS
 * Typescript
